@@ -42,6 +42,9 @@ func main() {
 
 	for _, record := range records {
 		if len(record) > 0 {
+			if record[0] == "identifier" {
+				continue
+			}
 			_, err = outputFile.WriteString(record[0] + "\n")
 			if err != nil {
 				fmt.Println("Error writing to output file:", err)
