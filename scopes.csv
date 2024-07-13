@@ -1,0 +1,11 @@
+identifier,asset_type,instruction,eligible_for_bounty,eligible_for_submission,availability_requirement,confidentiality_requirement,integrity_requirement,max_severity,system_tags,created_at,updated_at
+https://status.arkoselabs.com/,URL,,false,false,,,,critical,,2023-07-17 22:51:16 UTC,2023-07-17 22:51:16 UTC
+cdn.arkoselabs.com,URL,,true,true,,,,critical,Cloudflare WAF,2022-08-09 01:58:57 UTC,2023-07-17 22:35:45 UTC
+verify.arkoselabs.com,URL,"",true,true,,,,critical,"Amazon Web Services, Cloudflare CDN, Cloudflare WAF, Go",2022-08-09 02:08:23 UTC,2022-08-30 13:09:07 UTC
+client-api.arkoselabs.com,URL,,true,true,,,,critical,"Amazon Web Services, Cloudflare CDN, Cloudflare WAF, JavaScript",2022-08-09 01:56:40 UTC,2023-07-17 22:36:05 UTC
+developer.arkoselabs.com,URL,This site is managed by a 3rd party provider.,false,false,,,,critical,,2023-07-18 02:48:35 UTC,2023-07-18 02:49:18 UTC
+customer-sessions.arkoselabs.com,URL,"",true,true,,,,critical,"Amazon Web Services, Cloudflare CDN, Cloudflare WAF, Node.js",2022-08-09 02:01:31 UTC,2022-08-30 13:09:07 UTC
+portal.arkoselabs.com,URL,"",true,true,,,,critical,"Amazon Web Services, Cloudflare CDN, Cloudflare WAF, Node.js",2022-08-09 02:04:32 UTC,2022-08-30 13:09:07 UTC
+iframe.arkoselabs.com,URL,"",true,true,,,,critical,"Amazon Web Services, Cloudflare CDN, Cloudflare WAF, JavaScript",2022-08-09 02:09:47 UTC,2022-08-30 13:09:07 UTC
+demo.arkoselabs.com,URL,This web app is mainly a Marketing based site. Vulnerabilities on this asset will be awarded with lower bounties.,true,true,,,,critical,,2023-07-18 02:12:06 UTC,2023-12-11 16:32:19 UTC
+www.arkoselabs.com,URL,This website is mainly a Marketing based site. Vulnerabilities on this asset will be awarded with lower bounties.,true,true,,,,critical,,2023-07-17 23:13:38 UTC,2023-12-04 14:02:53 UTC
