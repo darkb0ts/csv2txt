@@ -25,7 +25,7 @@ This is a simple Go program that converts a CSV file to a TXT file by extracting
 
 1. Clone the repository:
     ```bash
-    https://github.com/darkb0ts/csv2txt.git
+    git clone https://github.com/darkb0ts/csv2txt.git
     cd csv2txt
     ```
 
