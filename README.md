@@ -1,5 +1,3 @@
-Sure, here's an updated version of the README with a download option:
-
 # CSV to TXT Converter
 
 This is a simple Go program that converts a CSV file to a TXT file by extracting the first column of each row.
